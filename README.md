@@ -1,2 +1,2 @@
 # imdb-search-focus
-A Firefox extension that sets focus on the navbar search box automatically
+A Firefox extension that sets focus on IMDB's search box automatically
