@@ -1,1 +1,1 @@
-document.getElementById("navbar-query").focus();
+document.getElementById("suggestion-search").focus();

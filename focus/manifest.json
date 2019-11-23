@@ -2,7 +2,7 @@
   "description": "Sets browser focus on the navbar search box automatically",
   "manifest_version": 2,
   "name": "IMDB Search Focus",
-  "version": "1.0",
+  "version": "1.2",
   "homepage_url": "https://github.com/Gildon/imdb-search-focus/tree/master",
   "icons": {
     "48": "icons/icon-48.png"
